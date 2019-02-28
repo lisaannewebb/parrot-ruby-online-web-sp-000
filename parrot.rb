@@ -1,5 +1,5 @@
 def parrot
-puts "Squawk!"
+parrot= "Squawk!"
 "Squwk!"
 end
   
